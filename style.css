@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blue;
+}
+
+h3{
+    background-color: aqua;
+     
+}
+
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    background-color:   gold;
+    
+      
+}
+body {
+    background-color:  lightcoral;
+}
